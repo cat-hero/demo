@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "fir-6f30c"
+  },
+  "targets": {
+    "fir-6f30c": {
+      "hosting": {
+        "prod": [
+          "fir-6f30c"
+        ],
+        "staging": [
+          "staging-demo-db78d"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
